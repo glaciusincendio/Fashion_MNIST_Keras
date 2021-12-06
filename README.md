@@ -1,1 +1,1 @@
-# Fashion_MNIST_Keras
+Keras example notebook on Fashion MNIST dataset
